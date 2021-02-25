@@ -1,4 +1,4 @@
-[![Header](https://github.com/ahmadchata/ahmadchata/image/profile.gif)](https://www.ahmadchata.me/)
+[![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/profile.gif)](https://www.ahmadchata.me/)
 
 ##### Hi, I'm Ahmad Chata:
 
