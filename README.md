@@ -20,4 +20,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
+[![Footer](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/)
+
 ⭐️ From [Ahmad Chata](https://github.com/ahmadchata)
