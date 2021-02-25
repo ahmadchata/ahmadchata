@@ -19,5 +19,3 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
-⭐️ From [Ahmad Chata](https://github.com/ahmadchata)
