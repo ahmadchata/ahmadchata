@@ -1,6 +1,6 @@
-[![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/)
+## Hi there! I'm Ahmad Chata
 
-##### Hi, I'm Ahmad Chata:
+[![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/)
 
 - 🎓Full Stack Web Developer
 - :speech_balloon: Ask me about Full Stack, web, or literally anything!
