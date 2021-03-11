@@ -3,7 +3,7 @@
 ##### Hi, I'm Ahmad Chata:
 
 - 🎓Full Stack Web Developer
-- :speech_balloon: Ask me about full-stack, web, or literally anything!
+- :speech_balloon: Ask me about Full Stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadchata@gmail.com)
