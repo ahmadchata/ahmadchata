@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Ahmad Chata, Full-stack developer :wave:</h1>
+<h1> Hi there, I'm Ahmad Chata, Full-stack developer :wave:</h1>
 
 [![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/)
 
