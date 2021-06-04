@@ -11,15 +11,15 @@
 
 ##### Languages I use
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 ![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=ruby-on-rails)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) -->
 
-<p align="center">
+<p align="left">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
@@ -28,7 +28,7 @@
     <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
+    <img title="React" alt="React" height=40 src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
@@ -38,6 +38,5 @@
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-    <img title="Python" alt="Python" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
   </span>
 </p>
