@@ -1,42 +1,27 @@
 <h2> Hi there! I am Ahmad Chata, Full-Stack Developer :wave:</h2>
 
-[![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/)
+[![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.com/)
 
-- :speech_balloon: Ask me about full-stack development, web, or literally anything!
-- :mailbox: You can reach me with the links below
+I am a full-stack developer currently working at [Nigerian Army](https://army.mil.ng) Cyber Warfare where I build web apps. I was previously at [Insurpass](https://insurpass.com) as a front-end developer, I built and maintained the company's merchant and admin dashboards that had over 5000 users.
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadchata@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadchata/)
-[![ahmadchata.me](https://img.shields.io/badge/-AHMADCHATA.ME-000000?style=for-the-badge&logo=react&logoColor=white)](https://ahmadchata.me/)
+## Meta
 
-##### Languages I use
+- Currently reading — Structure and Interpretation of Computer Programs (in Lisp)
+- Currently writing — [Craft Overflow](https://craftoverflow.substack.com), my Substack newsletter documenting my work as an engineer.
+- Currently learning — NodeJS and TypeScript (I'll become an outlier if don't know them), Rust and Operating System Concepts (yes, using the OG Dinosaur Book)
+- Wanna reach out? I'm on Twitter as `@ahmadchata` and in the mailspace as `ahmadchata@gmail.com`
+- Pronouns: he/him
 
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
-![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=ruby-on-rails)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) -->
+## Favorite Tools
 
-<p align="left">
-  <span align="center" class="d-flex">
-    <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
-    <img title="CSS" alt="CSS" height=40
-      src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
-    <img title="Ruby" alt="Ruby" height=40 src="https://blog.mwpreston.net/wp-content/uploads/2018/09/ruby-logo.png">
-    <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
-    <img title="JavaScript" alt="JavaScript" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img title="React" alt="React" height=40 src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-    <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
-    <img title="SQL" alt="SQL" height=40
-      src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
-    <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
-    <img title="Bootstrap" alt="Bootstrap" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
-    <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
-    <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-  </span>
-</p>
+- PostgreSQL
+- Rails
+- Ruby
+- Sequelize (as accompanying ORM to the above)
+- React (NextJS because it's emperically better)
+- NodeJS (almost due to its ubiquity)
+- Fig (autocomplete in the terminal)
+- TabNine (where others use Copilot)
+- Framer Motion
+- Tailwind
+- Zustand
