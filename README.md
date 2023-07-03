@@ -2,7 +2,9 @@
 
 ## Global
 
-I am currently working at [The Nigerian Army](https://army.mil.ng) Cyber Warfare Command and No! I don't stop missiles. I build, maintain and improve the performance of web apps. I was previously at a startup [Insurpass](https://insurpass.com) as a front-end developer, I built and maintained the company's merchant and admin dashboards that had thousands of users. It might not be much but...pheww!!!
+<!-- I am currently working at [The Nigerian Army](https://army.mil.ng) Cyber Warfare Command and No! I don't stop missiles. I build, maintain and improve the performance of web apps. I was previously at a startup [Insurpass](https://insurpass.com) as a front-end developer, I built and maintained the company's merchant and admin dashboards that had thousands of users. It might not be much but...pheww!!! -->
+
+I have been a software developer for almost 3 years working with HTML, CSS, JavaScript, TypeScript, Ruby on Rails and React, I help companies build and improve the performance of their web apps. In the last 2 years, I have worked as a front-end developer with two companies to build web apps that are accessed by thousands of users. My strength is building beautiful, scalable and performant web apps.
 
 ## Hooks
 
