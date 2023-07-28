@@ -1,8 +1,10 @@
-<h2> Hi there! I am Ahmad Chata and I am a Full-Stack Developer :wave:</h2>
+[![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.com/)
+
+<h2> Hi there! :wave: I am Ahmad Chata</h2>
 
 ## Global
 
-I work at [The Nigerian Army](https://army.mil.ng) Cyber Warfare Command and No! I don't stop missiles. I build, maintain and improve the performance of web apps. Previously, I worked at a startup [Insurpass](https://insurpass.com) as a front-end developer, I built and maintained the company's API based merchant and admin dashboards that had thousands of users. It might not be much but...pheww!!! My strength is building beautiful, scalable and performant web apps.
+I currently work as a Software Developer at The Nigerian Army Cyber Warfare Command. Previously at a startup Insurpass as a front-end developer, I built and maintained the company's API based merchant and admin dashboards. My strength is building beautiful, scalable and performant web apps.
 
 ## Hooks
 
@@ -15,10 +17,9 @@ I work at [The Nigerian Army](https://army.mil.ng) Cyber Warfare Command and No!
 - PostgreSQL
 - Rails
 - Ruby
+- JavaScript
 - Good ol' Bootstrap
 - React (NextJS because it's emperically better)
 - NodeJS
 - TypeScript (It's imperative these days)
 - Tailwind
-
-[![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.com/)
