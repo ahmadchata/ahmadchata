@@ -37,4 +37,4 @@ const ahmadChata = {
 }
 ```
 
-[![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.com/)
+<!-- [![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.com/) -->
