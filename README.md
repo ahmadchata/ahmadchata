@@ -16,7 +16,7 @@ MacBook-Pro:~
 const ahmadChata = {
     isHuman: true,
     title: "Software Developer",
-    experienceYears: 5,
+    experienceYears: 7,
     projects: "Many",
     strength: "Building beautiful, scalable and performant web apps",
     useCleanArchitecture: true,
@@ -29,11 +29,11 @@ const ahmadChata = {
       'Bootstrap',
       'MaterialUI',
       'React',
+      'React Native',
       'NextJS',
       'Ruby',
       'Rails',
     ],
-    currentlyLearning: ["Data Structures and Algorithms with JavaScript", "NodeJS and TypeScript" ]
 }
 ```
 
